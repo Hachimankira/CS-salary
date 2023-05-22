@@ -1,3 +1,4 @@
+pip=23.1.2
 beautifulsoup4==4.12.2
 country_converter==1.0.0
 matplotlib==3.7.1
