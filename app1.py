@@ -6,7 +6,7 @@ import nltk
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import country_converter as coco
-from IPython.display import display
+# from IPython.display import display
 import plotly.graph_objects as go
 import numpy as np
 import warnings
